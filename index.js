@@ -10,3 +10,4 @@ console.log('C')
 
 console.log('D')
 
+console.log('F')
